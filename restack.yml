@@ -1,0 +1,6 @@
+name: metabase
+services:
+  app:
+    image: metabase/metabase
+    ports:
+      - 3000
